@@ -1,7 +1,6 @@
 # Rock paper scissors
-## Project for the Odin Project using javascript
+## Project for the Odin Project using javascript, HTML and CSS
 
-### Instructions
-To play open the js console and type `game(n)` n being the number of rounds you wish to play.
+Click [here](https://manuelgarciaf.github.io/rock_paper_scissors/) to play!
 
-*16 oct. 2019*
+*20 oct. 2019*
